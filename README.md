@@ -4,7 +4,7 @@ Fullstack web application developed using Laravel and using a local SQLite datab
 # Application Idea:
 Online Book Rental System.\
 in the system there are diffrenet functionlities for different users, the system includes 3 cateogries of users:\
-anonymous ,readers , and librarians.\
+anonymous ,readers , and librarians.
 
 # functionlities for the three categories are the following:
 
@@ -21,7 +21,7 @@ add, edit or delete a book\
 add, editg or delete a genre,\
 list book rentals,\
 view the details of a book rental,\
-chang some status on a book rental, like status, deadline, note.\
+chang some status on a book rental, like status, deadline, note.
 
 # to run the application you have to run the following commands:
 composer install\
@@ -29,7 +29,7 @@ npm install\
 npm run prod\
 php artisan migrate:fresh\
 php artisan db:seed\
-php artisan serve\
+php artisan serve
 
 
 # Note:
