@@ -1,8 +1,8 @@
-# BRS-Laravel
-fullstack web application developed using Laravel and using a local SQLite database, and Twitter Boostrap as a CSS framework.
+# BRS(Book Rental System)-Laravel
+Fullstack web application developed using Laravel and using a local SQLite database, and Twitter Boostrap as a CSS framework.
 
 # Application Idea:
-online book rental system.
+Online Book Rental System.
 in the system there are diffrenet functionlities for different users, the system includes 3 cateogries of users:
 anonymous ,readers , and librarians.
 
@@ -12,11 +12,11 @@ anonymous ,readers , and librarians.
 search for books by author or title
 list books by genre
 view the data sheet of a selected book
-A registered and authenticated reader can:
+## A registered and authenticated reader can:
 borrow a book
 view his/her active book rentals, and
 view the details of a selected book rental
-A librarian can:
+## A librarian can:
 add, edit or delete a book
 add, editg or delete a genre,
 list book rentals,
