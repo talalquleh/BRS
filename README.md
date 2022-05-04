@@ -11,11 +11,11 @@ anonymous ,readers , and librarians.
 ## anonymous users can:
 search for books by author or title \
 list books by genre\
-view the data sheet of a selected book\
+view the data sheet of a selected book
 ## A registered and authenticated reader can:
 borrow a book\
 view his/her active book rentals, and\
-view the details of a selected book rental\
+view the details of a selected book rental
 ## A librarian can:
 add, edit or delete a book\
 add, editg or delete a genre,\
