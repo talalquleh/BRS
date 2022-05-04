@@ -3,7 +3,7 @@ Fullstack web application developed using Laravel and using a local SQLite datab
 
 # Application Idea:
 Online Book Rental System.\
-in the system there are diffrenet functionlities for different users, the system includes 3 cateogries of users:\
+in the system there are diffrenet functionlities for different users, the system includes 3 cateogries of users: \
 anonymous ,readers , and librarians.
 
 # functionlities for the three categories are the following:
@@ -33,4 +33,4 @@ php artisan serve
 
 
 # Note:
-The tables are created by migrations and seeded with some fake data.\
+The tables are created by migrations and seeded with some fake data.
