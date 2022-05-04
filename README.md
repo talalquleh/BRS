@@ -33,4 +33,4 @@ php artisan serve
 
 
 # Note:
-The tables are created by migrations and seeded with some fake data.
+The database tables are created by migrations and seeded with some fake data.
